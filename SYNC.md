@@ -1,6 +1,6 @@
 # How this repo stays in sync
 
-This repo is the **canonical, publishable** source for the Turtini Claude Code plugin. It was bootstrapped from `packages/claude-code-skill/` in the [`turtini` monorepo](https://github.com/turtini/turtini), but going forward all edits should land here first.
+This repo is the **canonical, publishable** source for the Turtini Claude Code plugin. It was bootstrapped from `packages/claude-code-skill/` in the [`turtini` monorepo](https://github.com/Turtini/turtini), but going forward all edits should land here first.
 
 ## Updating the SKILL or plugin manifest
 
@@ -30,7 +30,7 @@ git tag v0.1.0
 git push --tags
 ```
 
-The Claude Code plugin manager honors the tag if a user installs with `github.com/turtini/claude-code-plugin@v0.1.0`.
+The Claude Code plugin manager honors the tag if a user installs with `github.com/Turtini/claude-code-plugin@v0.1.0`.
 
 ## Background sync of the tool list
 

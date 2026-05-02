@@ -7,7 +7,7 @@ Install once. Mint a key. Then ask Claude things like *"create a contact for Ada
 ## Install
 
 ```bash
-claude plugin install github.com/turtini/claude-code-plugin
+claude plugin install github.com/Turtini/claude-code-plugin
 ```
 
 That registers the plugin and the bundled `turtini` MCP server entry. The server starts automatically once the `TURTINI_API_KEY` environment variable is set.
@@ -65,7 +65,7 @@ Then optionally remove the `export TURTINI_API_KEY=...` line from your shell rc.
 - Turtini: https://turtini.com
 - `@turtini/mcp` package: https://www.npmjs.com/package/@turtini/mcp
 - Claude Code plugins docs: https://code.claude.com/docs/en/plugins.md
-- Issues / feedback: https://github.com/turtini/claude-code-plugin/issues
+- Issues / feedback: https://github.com/Turtini/claude-code-plugin/issues
 
 ---
 
