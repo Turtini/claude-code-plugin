@@ -1,7 +1,7 @@
 {
   "name": "turtini",
   "description": "Wires the Turtini MCP server into Claude Code so your IDE agent can read and write your Turtini org's data — contacts, accounts, opportunities, articles, events — while it codes. Includes a /turtini skill for guided setup, API key minting, and connection verification.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": {
     "name": "Turtini",
     "email": "support@turtini.com"
