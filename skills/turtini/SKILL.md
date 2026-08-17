@@ -138,7 +138,7 @@ If that errors, the API key itself may be revoked or have insufficient scopes â€
 
 Tell the user the current tool surface (kept in sync with `@turtini/mcp` releases â€” verify against `npx -y @turtini/mcp --list-tools` if they want a live list):
 
-- **Read**: `auth_whoami`, `account_list`, `contact_list`, `opportunity_list`, `article_list`, `event_list`
+- **Read**: `auth_whoami`, `account_list`, `contact_list`, `opportunity_list`, `article_list`, `event_list`, `org_context_query`
 - **Write**: `contact_create`, `article_create`, `event_create`
 
 Useful prompts to try:
