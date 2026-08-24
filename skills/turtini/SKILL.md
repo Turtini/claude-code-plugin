@@ -140,6 +140,7 @@ Tell the user the current tool surface (kept in sync with `@turtini/mcp` release
 
 - **Read**: `auth_whoami`, `account_list`, `contact_list`, `opportunity_list`, `article_list`, `event_list`
 - **Write**: `contact_create`, `article_create`, `event_create`
+- **Query**: `org_context_query`
 
 Useful prompts to try:
 - *"Who am I in Turtini?"* → `auth_whoami`
