@@ -37,6 +37,7 @@ Run `/turtini` in any Claude Code session and it will walk you through:
 | `article_create` | Draft a new article |
 | `event_list` | List upcoming events |
 | `event_create` | Create a new event |
+| `org_context_query` | Ask a natural-language question about the connected org and get a grounded answer |
 
 The toolset grows with `@turtini/mcp` releases. Run `npx -y @turtini/mcp --list-tools` for a live snapshot.
 
